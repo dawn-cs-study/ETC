@@ -1,8 +1,17 @@
 
+### Code Study는 개발자들의 지식 공유와 면접 준비를 돕는 AI 기반 CS 학습·리뷰 플랫폼입니다.
+- **URL : https://codestudy.org/**
+- [content-repo](https://github.com/dawn-cs-study/cs-study-content)
+- [lambda-repo](https://github.com/dawn-cs-study/cs-study-lambda)
+- [ai-repo](https://github.com/dawn-cs-study/cs-study-ai)
+- [api-repo](https://github.com/dawn-cs-study/cs-study-api)
 
 
+### 구성원
+| <a href="https://github.com/masiljangajji"><img src="https://github.com/masiljangajji.png" width="100px"><br>이승재</a> 
+|-----|
 
-**URL : https://codestudy.org/**
+
 
 ---
 
@@ -48,7 +57,8 @@ CI/CD
 
 ## **아키텍처**
 
-![img.png](img.png)
+<img width="977" height="553" alt="스크린샷 2025-09-16 06 41 23" src="https://github.com/user-attachments/assets/814a5732-030d-4242-8738-37bbf5cfc6d4" />
+
 
 ---
 

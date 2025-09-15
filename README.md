@@ -1,6 +1,9 @@
 
-### Code Study는 개발자들의 지식 공유와 면접 준비를 돕는 AI 기반 CS 학습·리뷰 플랫폼입니다.
-- **URL : https://codestudy.org/**
+### Code Study는 개발자들의 지식 공유와 면접 준비를 돕는 AI 기반 CS 학습·리뷰 플랫폼입니다. 
+
+**기간 : 2025/08/18 ~ 진행 중**  
+**URL : https://codestudy.org/** 
+
 - [content-repo](https://github.com/dawn-cs-study/cs-study-content)
 - [lambda-repo](https://github.com/dawn-cs-study/cs-study-lambda)
 - [ai-repo](https://github.com/dawn-cs-study/cs-study-ai)

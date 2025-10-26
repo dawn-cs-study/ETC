@@ -7,7 +7,6 @@
 - [content-repo](https://github.com/dawn-cs-study/cs-study-content)
 - [lambda-repo](https://github.com/dawn-cs-study/cs-study-lambda)
 - [ai-repo](https://github.com/dawn-cs-study/cs-study-ai)
-- [api-repo](https://github.com/dawn-cs-study/cs-study-api)
 
 
 ### 구성원
